@@ -51,3 +51,5 @@ COPY startpostgres.sh /app/startpostgres.sh
 COPY init.sh /app/init.sh
 
 
+
+
